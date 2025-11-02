@@ -1,0 +1,12 @@
+{
+  "Kurt": {
+    "guess_score": 5,
+    "rps_wins": 2,
+    "math_score": 10
+  },
+  "test": {
+    "guess_score": 3,
+    "rps_wins": 1,
+    "math_score": 5
+  }
+}
