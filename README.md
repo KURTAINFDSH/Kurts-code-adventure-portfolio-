@@ -1,10 +1,34 @@
-# Kurts-code-adventure-portfolio-
-Repo for my codes(python)
-still 16yrs old
+ Kurts-code-adventure-portfolio
 
-Help me improve my textbasedgamelib
-its my project that i work on to improve my coding skill
+this is my python code portfolio 
+im currently 16yrs 
+and will be taking cs course in college and want to be software engineer
 
-free to add new things to my textbasedgamelib to improve it 
+this portfolio contains
+-codes(python)
+-textbasedgamelibray
+
+🎮 Project Highlight: textbasedgamelib
+
+textbasedgamelib is my personal library for creating text-based games in Python.
+It’s a playground for improving my skill
+
+features thst i created:
+-scoring system
+-playerdata(need some fixing in updating the player data)
+-multiple game selection 
+-and more
+
+---
+
+Contributions Welcome!
+If you love coding or game dev, feel free to:
+
+Suggest new features
+
+Fix bugs
+
+Add cool mechanics or systems
 
 
+Every contribution helps me learn
